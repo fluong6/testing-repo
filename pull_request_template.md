@@ -5,28 +5,22 @@ _Remember to update your **CHANGELOG** if your changes has a public impact (API 
 ## Jira ticket:
 _Full link to related jira ticket_
 
-## Functional Testing Status
+## Functional Testing
 _Describe the tests performed: which Unity version, which platforms, etc._
-_How will we ensure the quality of this change overtime ?_
-
-## Performance Testing Status
-_Describe the performance impact, if any_
+_Does the changes require QA manual tests or automation tests ?_
 
 ## Overall Changes Risks
-Complexity: _Select One_ `Low` `Medium` `High`
+Complexity:
 _Why ?_
-[ ] `Low`
-[ ] `Medium`
-[ ] `High`
-
-- [x] #739
 - [ ] `Low`
 - [ ] `Medium`
 - [ ] `High`
 
-
-Halo Effect: _Select One_ `Low` `Medium` `High`
+Halo Effect:
 _Why?_
+- [ ] `Low`
+- [ ] `Medium`
+- [ ] `High`
 
 ## Notes to Reviewers
 _Describe any useful information for the reviewers_
