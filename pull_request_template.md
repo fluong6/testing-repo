@@ -7,7 +7,11 @@ _Full link to related jira ticket_
 
 ## Functional Testing
 _Describe the tests performed: which Unity version, which platforms, etc._
-_Does the changes require QA manual tests or automation tests ?_
+_Does the changes require:_
+- [ ] `Manual test`
+- [ ] `Unit test`
+- [ ] `Integration test`
+- [ ] `Performance test`
 
 ## Overall Changes Risks
 Complexity:
