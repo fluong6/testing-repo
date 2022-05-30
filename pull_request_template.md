@@ -6,7 +6,7 @@ _Remember to update your **CHANGELOG** if your changes has a public impact (API 
 _Full link to related jira ticket_
 
 ## Functional Testing
-_Describe the tests performed: which Unity version, which platforms, etc. _
+_Describe the tests performed: which Unity version, which platforms, etc_
 _Which type of tests were added/performed:_
 - [ ] `Manual test`
 - [ ] `Unit test`
