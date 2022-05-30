@@ -1,21 +1,14 @@
 ## Purpose of this PR
 _Describe the purpose of the PR_  
-_Remember to update your **CHANGELOG** if your changes has a public impact (API changes, UI/UX changes, behaviour changes, ...)_
+- [ ] **CHANGELOG** updated with all public facing changes (API changes, UI/UX changes, behaviour changes)
 
 ## Jira ticket:
 _Full link to related jira ticket_
-[jira-XXXX](Full link to related jira ticket)
 
 ## Functional Testing
-_Describe the tests performed: which Unity version, which platforms, etc_  
+_Describe the tests performed: which Unity version, which platforms, etc._
 _Which type of tests were added/performed:_
 - [ ] `Manual test`
-  - [ ] 2020.3 (LTS)
-  - [ ] 2021.1
-  - [ ] 2021.2
-  - [ ] 2021.3 (LTS)
-  - [ ] 2022.1
-  - [ ] 2022.2  
 - [ ] `Unit test`
 - [ ] `Integration test`
 - [ ] `Performance test`
@@ -27,11 +20,8 @@ _Why ?_
 - [ ] `Medium`
 - [ ] `High`
 
-Halo Effect:
-_Why?_
-- [ ] `Low`
-- [ ] `Medium`
-- [ ] `High`
+## UI and visual changes
+_If applicable, add an image of the visual before and after your changes_
 
 ## Notes to Reviewers
 _Describe any useful information for the reviewers_
