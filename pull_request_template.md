@@ -7,6 +7,7 @@ _Full link to related jira ticket_
 
 ## Functional Testing
 _Describe the tests performed: which Unity version, which platforms, etc_ 
+_Describe the purpose of the PR_  
 _Which type of tests were added/performed:_
 - [ ] `Manual test`
 - [ ] `Unit test`
