@@ -10,6 +10,12 @@ _Full link to related jira ticket_
 _Describe the tests performed: which Unity version, which platforms, etc_  
 _Which type of tests were added/performed:_
 - [ ] `Manual test`
+  - [ ] 2020.3 (LTS)
+  - [ ] 2021.1
+  - [ ] 2021.2
+  - [ ] 2021.3 (LTS)
+  - [ ] 2022.1
+  - [ ] 2022.2  
 - [ ] `Unit test`
 - [ ] `Integration test`
 - [ ] `Performance test`
