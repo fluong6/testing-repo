@@ -19,6 +19,12 @@ _Why ?_
 [ ] `Medium`
 [ ] `High`
 
+- [x] #739
+- [ ] `Low`
+- [ ] `Medium`
+- [ ] `High`
+
+
 Halo Effect: _Select One_ `Low` `Medium` `High`
 _Why?_
 
