@@ -20,14 +20,14 @@ _Which type of tests were added/performed:_
    - [ ] 2022.2
 - [ ] `Unit test`
 - [ ] `Integration test`
-- [ ] `Performance test`
+
+## Performance Testing
+_If applicable, describe the performance testing done_
 
 ## Overall Changes Risks
-Complexity:
-_Why ?_
-- [ ] `Low`
-- [ ] `Medium`
-- [ ] `High`
+_Does the change require QA team to_
+- [ ] `review automated tests`
+- [ ] `perform manual tests`
 
 ## UI and Visual Changes
 _If applicable, add images of the visual before and after your changes_
