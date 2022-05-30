@@ -15,9 +15,9 @@ _Describe the performance impact, if any_
 ## Overall Changes Risks
 Complexity: _Select One_ `Low` `Medium` `High`
 _Why ?_
-[] `Low`
-[] `Medium`
-[] `High`
+[ ] `Low`
+[ ] `Medium`
+[ ] `High`
 
 Halo Effect: _Select One_ `Low` `Medium` `High`
 _Why?_
