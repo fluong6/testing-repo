@@ -4,6 +4,7 @@ _Remember to update your **CHANGELOG** if your changes has a public impact (API 
 
 ## Jira ticket:
 _Full link to related jira ticket_
+[Some Issue](https://foo.atlassian.net/browse/ABC-123)
 
 ## Functional Testing
 _Describe the tests performed: which Unity version, which platforms, etc_  
