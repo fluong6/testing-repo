@@ -1,23 +1,27 @@
 ## Purpose of this PR
 _Describe the purpose of the PR_  
-_Remember to update your **CHANGELOG** if your changes has a public impact (API changes, UI/UX changes, behaviour changes, ...)_
+- [ ] **CHANGELOG** updated with all public facing changes (API changes, UI/UX changes, behaviour changes)
+- [ ] No need to update the **CHANGELOG**
 
-## Jira ticket:
+## Jira ticket
 _Full link to related jira ticket_
 
-## Functional Testing Status
-_Describe the tests performed: which Unity version, which platforms, etc._
-_How will we ensure the quality of this change overtime ?_
+## Functional Testing
+_Have you performed:_
+- [ ] `Manual testing`
 
-## Performance Testing Status
-_Describe the performance impact, if any_
+## Performance Testing
+_**Remove this section if not applicable**, describe the performance testing done_
 
 ## Overall Changes Risks
-Complexity: _Select One_ `Low` `Medium` `High`
-_Why ?_
+_Does the change require QA team to_
+- [ ] `Review automated tests`
+- [ ] `Execute manual tests`
 
-Halo Effect: _Select One_ `Low` `Medium` `High`
-_Why?_
+If any boxes above are checked, please add QA as a PR reviewer.
+
+## UI and Visual Changes
+_**Remove this section if not applicable** - Add images of the visual before and after your changes_
 
 ## Notes to Reviewers
-_Describe any useful information for the reviewers_
+_**Remove this section if not applicable** - Describe any useful information for the reviewers_
